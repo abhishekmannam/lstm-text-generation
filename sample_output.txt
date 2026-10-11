@@ -1,0 +1,11 @@
+
+LSTM Text Generation - Sample Outputs
+
+Seed: the king is
+Generated: the king is my great noble hand let thee is the court of our eyes and make such no part of the ho shall are none of as more fame i will faith
+
+Seed: to be or not to
+Generated: to be or not to his very veins out of love to these girl which more wholesome with it and embrace her marry will thou best a roman more exit in this soldiers let your
+
+Seed: my lord and
+Generated: my lord and care each in gods upon a very greets to thy people here should much begins not within joy to thee this fear to your man is him in this was
